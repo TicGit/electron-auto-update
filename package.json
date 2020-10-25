@@ -1,0 +1,15 @@
+{
+  "name": "com.autoupdatetest.rabby",
+  "version": "1.0.0",
+  "description": "this is a test project",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"electron ."
+  },
+  "author": "Rabby Khan",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^10.1.5"
+  }
+}
